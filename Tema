@@ -33,19 +33,19 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#c100c7ff", 
+      "value": "#ab00b4ff", 
       "id": 41, 
       "name": "button_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#ffffa000", 
+      "value": "#ff00ff78", 
       "id": 42, 
       "name": "icon_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#cfffd600", 
+      "value": "#ab00f1b4", 
       "id": 556, 
       "name": "border_color"
     }, 
@@ -70,7 +70,7 @@
 
     {
       "user_id": 27, 
-      "value": "#cfffd600", 
+      "value": "#ab00f1b4", 
       "id": 2382, 
       "name": "border_color"
     }, 
@@ -106,7 +106,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#c2ffa000", 
+      "value": "#ab00b4ff", 
       "id": 3135, 
       "name": "app_config_item_background_color"
     }, 
