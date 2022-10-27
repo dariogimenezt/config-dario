@@ -15,7 +15,7 @@
     },
     {
       "user_id": 27, 
-      "value": "#00000000", 
+      "value": "#ff000000", 
       "id": 2165, 
       "name": "background_color"
     }, 
@@ -88,7 +88,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "", 
+      "value": "https://Wa.me/+595981663367", 
       "id": 2385, 
       "name": "app_conta_link"
     }, 
